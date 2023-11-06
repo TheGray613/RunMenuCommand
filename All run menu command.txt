@@ -1,0 +1,156 @@
+1_Open Documents Folder.....	documents
+2_Open Videos folder.....	videos
+3_Open Downloads Folder...	downloads
+4_Open Favorites Folder...	favorites
+5_Open Recent Folder......	recent
+6_Open Pictures Folder..	pictures
+7_Adding a new Device......     devicepairingwizard
+8_About Windows dialog...	winver
+9_Add Hardware Wizard...	hdwwiz
+10_Advanced User Accounts	netplwiz
+11_Advanced User Accounts	azman.msc
+12_Backup and Restore...	sdclt
+13_Bluetooth File Transfer	fsquirt
+14_Calculator...........	calc
+15_Certificates.........	certmgr.msc
+16_Change Computer Performance Settings..	systempropertiesperformance
+17_Change Data Execution Prevention Settings..	systempropertiesdataexecutionprevention
+18_Change Data Execution Prevention Settings..	printui
+19_Character Map.........	charmap
+20_ClearType Tuner..........	cttune
+21_Color Management........	colorcpl
+22_Command Prompt...........	cmd
+23_Component Services.......	comexp.msc
+24_Component Services......	dcomcnfg
+25_Computer Management.....	compmgmt.msc
+26_Computer Management.....	compmgmtlauncher
+27_Connect to a Projector...	displayswitch
+28_Control Panel............	control
+29_Create A Shared Folder Wizard.........	shrpubw
+30_Create a System Repair Disc..............	recdisc
+31_Data Execution Prevention................	systempropertiesdataexecutionprevention
+32_Date and Time...........	timedate.cpl
+33_Default Location........	locationnotifications
+34_Device Manager.......	devmgmt.msc
+35_Device Manager...........	hdwwiz.cpl
+36_Device Pairing Wizard...	devicepairingwizard
+37_Diagnostics Troubleshooting Wizard......	msdt
+38_Digitizer Calibration Tool.........             tabcal
+39_DirectX Diagnostic Tool..................	dxdiag
+40_Disk Cleanup.............................	cleanmgr
+41_Disk Defragmenter.......................	dfrgui
+42_Disk Management..........................	diskmgmt.msc
+43_Display.....................	dpiscaling
+44_Display Color Calibration...................	dccw
+45_Display Switch...........................	displayswitch
+46_DPAPI Key Migration Wizard............	dpapimig
+47_Driver Verifier Manager.....................	verifier
+48_Ease of Access Center.....................	utilman
+49_EFS Wizard..............................	rekeywiz
+50_Event Viewer.............................	eventvwr.msc
+51_Fax Cover Page Editor................	fxscover
+52_File Signature Verification..............	sigverif
+53_Font Viewer................. fontview
+54_Game Controllers.........	joy.cpl
+55_IExpress Wizard.........	iexpress
+56_Internet Explorer.....	iexplore
+57_Internet Options.....	inetcpl.cpl
+58_iSCSI Initiator Configuration Tool....	iscsicpl
+59_Language Pack Installer..............	lpksetup
+60_Local Group Policy Editor............	gpedit.msc
+61_Local Security Policy...................	secpol.msc
+62_Local Users and Groups......	lusrmgr.msc
+63_Location Activity.........................	locationnotifications
+64_Magnifier.................................	magnify
+65_Malicious Software Removal Tool.......	mrt
+66_Manage Your File Encryption Certificates......	rekeywiz
+67_Microsoft Management Console.............	mmc
+68_Microsoft Support Diagnostic Tool....	msdt
+69_Mouse.......................................	main.cpl
+70_NAP Client Configuration...................	napclcfg.msc
+71_Narrator..............................	narrator
+72_Network Connections.......	ncpa.cpl
+73_New Scan Wizard.........	wiaacmgr
+74_Notepad..............	notepad
+75_ODBC Data Source Administrator.......	odbcad32
+76_ODBC Driver Configuration..................	odbcconf
+77_On-Screen Keyboard......................	osk
+78_Paint.................................	mspaint
+79_Pen and Touch.........................	tabletpc.cpl
+80_People Near Me..............................	collab.cpl
+81_Performance Monitor...................	perfmon.msc
+82_Performance Options......................	systempropertiesperformance
+83_Phone and Modem..........................	telephon.cpl
+84_Phone Dialer.............................	dialer
+85_Power Options...............					
+86_Presentation Settings....	presentationsettings
+87_Print Management......	printmanagement.msc
+88_Printer Migration.....	printbrmui
+89_Printer User Interface.....	printui
+90_Private Character Editor....	eudcedit
+91_Problem Steps Recorder................	psr
+92_Programs and Features................	appwiz.cpl
+93_Protected Content Migration..........	dpapimig
+94_Region and Language..................	intl.cpl
+95-Registry Editor.......................	regedit
+96_Registry Editor 32....................   	regedt32
+97_Remote Access Phonebook...............	rasphone
+98_Remote Desktop Connection............	mstsc
+99_Resource Monitor.....................	resmon
+100_Resultant Set of Policy..............	rsop.msc
+101_SAM Lock Tool.......................	syskey
+102_Screen Resolution......................	desk.cpl
+103_Securing the Windows Account Database...	syskey
+104_Services............................	services.msc
+105_Set Program Access and Computer Defaults...	computerdefaults
+106_Share Creation Wizard................	shrpubw
+107_Shared Folders......................	fsmgmt.msc
+108_Signout...................	logoff
+109_Snipping Tool........	snippingtool
+110_Sound................	mmsys.cpl
+111_Sound recorder......	soundrecorder
+112_SQL Server Client Network Utility....	cliconfg
+113_Sticky Notes..............................	stikynot
+114_Stored User Names and Passwords......	credwiz
+115_Sync Center.........................	mobsync
+116_System Configuration................	msconfig
+117_System Configuration Editor..........	sysedit
+118_System Information...................	msinfo32
+119_System Properties......................	sysdm.cpl
+120_System Properties (Advanced Tab)........	systempropertiesadvanced
+121_System Properties (Computer Name Tab)..	systempropertiescomputername
+122_System Properties (Hardware Tab)........	systempropertieshardware
+123_System Properties (Remote Tab)......	systempropertiesremote
+124_System Properties (System Protection Tab)..	systempropertiesprotection
+125_System Restore.......	rstrui
+126_Task Manager.........	taskmgr
+127_Task Scheduler......	taskschd.msc
+128_Trusted Platform Module (TPM) Management...	tpm.msc
+129_Turn Windows features on or off.......	optionalfeatures
+130_User Account Control Settings.........	useraccountcontrolsettings
+131_Utility Manager.......................	utilman
+132_Volume Mixer..........................	sndvol
+133_Windows Action Center...............	wscui.cpl
+134_Windows Activation Client............	slui
+135_Windows Anytime Upgrade Results........	windowsanytimeupgraderesults
+136_Windows Disc Image Burning Tool......	isoburn
+137_Windows Explorer.......	explorer
+138_Windows Fax and Scan.	wfs
+139_Windows Firewall......	firewall.cpl
+140_Windows Firewall with Advanced Security.	wf.msc
+141_Windows Journal.....................	journal
+142_Windows Media Player.................	wmplayer
+143_Windows Memory Diagnostic Scheduler.	mdsched
+144_Windows Mobility Center..............	mblctr
+145_Windows Picture Acquisition Wizard...	wiaacmgr
+146_Windows PowerShell...	powershell
+147_Windows PowerShell ISE.................	powershell_ise
+148_Windows Remote Assistance............	msra
+149_Windows Repair Disc.	recdisc
+150_Windows Script Host.................	wscript
+151_Windows Update......................	wuapp
+152_Windows Update Standalone Installer..	wusa
+153_Versione Windows.....................	winver
+154_WMI Management......................	wmimgmt.msc
+155_WordPad.............	write
+156_XPS Viewer..............................	xpsrchvw
